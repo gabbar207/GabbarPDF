@@ -1,0 +1,57 @@
+﻿################################################################################
+# .gitignore optimized for Visual Studio (.NET) with safe config ignoring
+################################################################################
+
+# Ignore actual config files (but allow tracking example templates)
+PinkCityFin.Web/Web.config
+PinkCityFin.Data/App.Config
+
+# Build results
+**/bin/
+**/obj/
+**/publish/
+**/dist/
+
+# User-specific files
+*.suo
+*.user
+*.csproj.user
+*.userosscache
+*.sln.docstates
+
+# VS Code & Visual Studio settings
+.vscode/
+.vs/
+**/.vs/
+
+# Build artifacts, logs, and DBs
+*.dll
+*.pdb
+*.exe
+*.cache
+*.log
+*.tmp
+*.db
+*.db-shm
+*.db-wal
+
+# Layout and state
+DocumentLayout.json
+DocumentLayout.backup.json
+
+# ReSharper and JetBrains Rider
+_ReSharper*/
+.idea/
+*.DotSettings.user
+*.sln.iml
+*.dotCover
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# NuGet packages
+*.nupkg
+packages/
