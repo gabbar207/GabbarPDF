@@ -9,3 +9,15 @@ D:\PDF\GabbarPDF\obj\Debug\net10.0\GabbarPDF.dll
 D:\PDF\GabbarPDF\obj\Debug\net10.0\refint\GabbarPDF.dll
 D:\PDF\GabbarPDF\obj\Debug\net10.0\GabbarPDF.pdb
 D:\PDF\GabbarPDF\obj\Debug\net10.0\ref\GabbarPDF.dll
+D:\PDF\gitpdf\GabbarPDF\bin\Debug\net10.0\GabbarPDF.deps.json
+D:\PDF\gitpdf\GabbarPDF\bin\Debug\net10.0\GabbarPDF.dll
+D:\PDF\gitpdf\GabbarPDF\bin\Debug\net10.0\GabbarPDF.pdb
+D:\PDF\gitpdf\GabbarPDF\obj\Debug\net10.0\GabbarPDF.GeneratedMSBuildEditorConfig.editorconfig
+D:\PDF\gitpdf\GabbarPDF\obj\Debug\net10.0\GabbarPDF.AssemblyInfoInputs.cache
+D:\PDF\gitpdf\GabbarPDF\obj\Debug\net10.0\GabbarPDF.AssemblyInfo.cs
+D:\PDF\gitpdf\GabbarPDF\obj\Debug\net10.0\GabbarPDF.csproj.CoreCompileInputs.cache
+D:\PDF\gitpdf\GabbarPDF\obj\Debug\net10.0\GabbarPDF.sourcelink.json
+D:\PDF\gitpdf\GabbarPDF\obj\Debug\net10.0\GabbarPDF.dll
+D:\PDF\gitpdf\GabbarPDF\obj\Debug\net10.0\refint\GabbarPDF.dll
+D:\PDF\gitpdf\GabbarPDF\obj\Debug\net10.0\GabbarPDF.pdb
+D:\PDF\gitpdf\GabbarPDF\obj\Debug\net10.0\ref\GabbarPDF.dll

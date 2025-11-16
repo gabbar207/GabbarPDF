@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Jo Gabbar se PDF mangega... woh PDF hi milega!")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d0fc3aa7ef43f18aa09adde08f39789ab8a7406")]
 [assembly: System.Reflection.AssemblyProductAttribute("GabbarPDF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GabbarPDF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

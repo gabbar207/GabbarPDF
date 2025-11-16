@@ -1,23 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\PDF\\GabbarPDF\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{E6EC1F3B-7CBD-4B1C-8C00-34E5B983C0DD}|GabbarPDF.csproj|d:\\pdf\\gabbarpdf\\gabbarpdf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E6EC1F3B-7CBD-4B1C-8C00-34E5B983C0DD}|GabbarPDF.csproj|solutionrelative:gabbarpdf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6EC1F3B-7CBD-4B1C-8C00-34E5B983C0DD}|GabbarPDF.csproj|d:\\pdf\\gabbarpdf\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{E6EC1F3B-7CBD-4B1C-8C00-34E5B983C0DD}|GabbarPDF.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6EC1F3B-7CBD-4B1C-8C00-34E5B983C0DD}|GabbarPDF.csproj|d:\\pdf\\gabbarpdf\\pdfbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6EC1F3B-7CBD-4B1C-8C00-34E5B983C0DD}|GabbarPDF.csproj|solutionrelative:pdfbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{122546BE-3706-447D-B413-D8F42333003F}|..\\GabbarPDF.Demo\\GabbarPDF.Demo.csproj|d:\\pdf\\gabbarpdf.demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "D:\\PDF\\gitpdf\\GabbarPDF\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -25,60 +9,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GabbarPDF",
-              "DocumentMoniker": "D:\\PDF\\GabbarPDF\\GabbarPDF.csproj",
-              "RelativeDocumentMoniker": "GabbarPDF.csproj",
-              "ToolTip": "D:\\PDF\\GabbarPDF\\GabbarPDF.csproj",
-              "RelativeToolTip": "GabbarPDF.csproj",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-16T15:49:09.946Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "readme.md",
-              "DocumentMoniker": "D:\\PDF\\GabbarPDF\\readme.md",
-              "RelativeDocumentMoniker": "readme.md",
-              "ToolTip": "D:\\PDF\\GabbarPDF\\readme.md",
-              "RelativeToolTip": "readme.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-11-16T15:49:19.638Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\PDF\\GabbarPDF.Demo\\Program.cs",
-              "RelativeDocumentMoniker": "..\\GabbarPDF.Demo\\Program.cs",
-              "ToolTip": "D:\\PDF\\GabbarPDF.Demo\\Program.cs",
-              "RelativeToolTip": "..\\GabbarPDF.Demo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T14:24:16.882Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PdfBuilder.cs",
-              "DocumentMoniker": "D:\\PDF\\GabbarPDF\\PdfBuilder.cs",
-              "RelativeDocumentMoniker": "PdfBuilder.cs",
-              "ToolTip": "D:\\PDF\\GabbarPDF\\PdfBuilder.cs",
-              "RelativeToolTip": "PdfBuilder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T14:16:56.737Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PDF\\GabbarPDF\\GabbarPDF.csproj": {}
+    "D:\\PDF\\gitpdf\\GabbarPDF\\GabbarPDF.csproj": {}
   },
   "projects": {
-    "D:\\PDF\\GabbarPDF\\GabbarPDF.csproj": {
+    "D:\\PDF\\gitpdf\\GabbarPDF\\GabbarPDF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PDF\\GabbarPDF\\GabbarPDF.csproj",
+        "projectUniqueName": "D:\\PDF\\gitpdf\\GabbarPDF\\GabbarPDF.csproj",
         "projectName": "GabbarPDF",
-        "projectPath": "D:\\PDF\\GabbarPDF\\GabbarPDF.csproj",
+        "projectPath": "D:\\PDF\\gitpdf\\GabbarPDF\\GabbarPDF.csproj",
         "packagesPath": "C:\\Users\\Gabbar Singh\\.nuget\\packages\\",
-        "outputPath": "D:\\PDF\\GabbarPDF\\obj\\",
+        "outputPath": "D:\\PDF\\gitpdf\\GabbarPDF\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

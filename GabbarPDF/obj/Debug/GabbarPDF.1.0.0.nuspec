@@ -7,14 +7,14 @@
     <license type="expression">MIT</license>
     <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
     <description>Jo Gabbar se PDF mangega... woh PDF hi milega!</description>
-    <tags>gabbar pdf hindi bollywood desi indian</tags>
-    <repository type="git" />
+    <tags>gabbar pdf hindi</tags>
+    <repository type="git" commit="5d0fc3aa7ef43f18aa09adde08f39789ab8a7406" />
     <dependencies>
       <group targetFramework="net10.0" />
     </dependencies>
   </metadata>
   <files>
-    <file src="D:\PDF\GabbarPDF\bin\Debug\net10.0\GabbarPDF.dll" target="lib\net10.0\GabbarPDF.dll" />
-    <file src="D:\PDF\GabbarPDF\README.md" target="\README.md" />
+    <file src="D:\PDF\gitpdf\GabbarPDF\bin\Debug\net10.0\GabbarPDF.dll" target="lib\net10.0\GabbarPDF.dll" />
+    <file src="D:\PDF\gitpdf\GabbarPDF\readme.md" target="\readme.md" />
   </files>
 </package>
