@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "GabbarPDF.Demo/1.0.0": {
+        "dependencies": {
+          "GabbarPDF": "1.0.0"
+        },
+        "runtime": {
+          "GabbarPDF.Demo.dll": {}
+        }
+      },
+      "GabbarPDF/1.0.0": {
+        "runtime": {
+          "GabbarPDF.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GabbarPDF.Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GabbarPDF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

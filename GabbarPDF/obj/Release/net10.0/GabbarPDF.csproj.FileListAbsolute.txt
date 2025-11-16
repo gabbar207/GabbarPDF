@@ -1,0 +1,11 @@
+D:\PDF\GabbarPDF\bin\Release\net10.0\GabbarPDF.deps.json
+D:\PDF\GabbarPDF\bin\Release\net10.0\GabbarPDF.dll
+D:\PDF\GabbarPDF\bin\Release\net10.0\GabbarPDF.pdb
+D:\PDF\GabbarPDF\obj\Release\net10.0\GabbarPDF.GeneratedMSBuildEditorConfig.editorconfig
+D:\PDF\GabbarPDF\obj\Release\net10.0\GabbarPDF.AssemblyInfoInputs.cache
+D:\PDF\GabbarPDF\obj\Release\net10.0\GabbarPDF.AssemblyInfo.cs
+D:\PDF\GabbarPDF\obj\Release\net10.0\GabbarPDF.csproj.CoreCompileInputs.cache
+D:\PDF\GabbarPDF\obj\Release\net10.0\GabbarPDF.dll
+D:\PDF\GabbarPDF\obj\Release\net10.0\refint\GabbarPDF.dll
+D:\PDF\GabbarPDF\obj\Release\net10.0\GabbarPDF.pdb
+D:\PDF\GabbarPDF\obj\Release\net10.0\ref\GabbarPDF.dll

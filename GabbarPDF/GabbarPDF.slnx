@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../GabbarPDF.Demo/GabbarPDF.Demo.csproj" />
+  <Project Path="GabbarPDF.csproj" />
+</Solution>

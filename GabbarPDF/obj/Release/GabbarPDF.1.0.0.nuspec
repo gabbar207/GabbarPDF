@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>GabbarPDF</id>
+    <version>1.0.0</version>
+    <authors>Kitne Aadmi The?</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Jo Gabbar se PDF mangega... woh PDF hi milega!</description>
+    <tags>gabbar pdf hindi bollywood desi indian</tags>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net10.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\PDF\GabbarPDF\bin\Release\net10.0\GabbarPDF.dll" target="lib\net10.0\GabbarPDF.dll" />
+    <file src="D:\PDF\GabbarPDF\README.md" target="\README.md" />
+  </files>
+</package>
